@@ -72,7 +72,7 @@ sudo apt upgrade
 **Konfigurasi**
 
 ```bash
-sudo service svsftpd restart
+sudo service vsftpd restart
 sudo ufw allow 21/tcp
 sudo ufw enable
 ```
