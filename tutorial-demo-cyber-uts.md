@@ -133,8 +133,8 @@ Buka Terminal pada Linux kalian lalu ketikkan :
 ```bash
 sudo apt update
 sudo apt install iptables
-sudo apt upgrade
 sudo apt install iptables-persistent
+sudo apt upgrade
 ```
 
 Sebelum kita Menambah atau Mengubah Rules alangkah baiknya kita Tampilkan terlebih dahulu Rules-nya dengan mengetikkan:
